@@ -1,0 +1,1 @@
+ganache-cli -m "muffin fix icon pelican finish alcohol puzzle farm scheme topple wish jewel"
